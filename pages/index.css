@@ -115,7 +115,7 @@
   max-width: 438px;
 }
 
-.recipes__video {
+.recipes__videos {
   display: flex;
   justify-content: center;
   gap: 40px;
