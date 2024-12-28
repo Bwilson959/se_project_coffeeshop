@@ -11,7 +11,7 @@
 
 .header__title {
   margin: 183px 0 0;
-  font-family: "Inter", "Arial", sans-serif;
+  font-family: "Inter", Arial, "sans-serif";
   max-width: 729px;
   font-size: 60px;
   font-weight: 500;
@@ -33,7 +33,7 @@
   max-width: 683px;
 }
 .header__footer {
-  font-family: "Inter", "Arial", sans-serif;
+  font-family: "Inter", Arial, "sans-serif";
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
